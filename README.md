@@ -5,6 +5,6 @@
 
 相信这个有趣的项目可以给 40code 的创作者带来更多的乐趣。
 
-## 版权声明
+## 版权信息
  - 上面的logo由 40code logo 和 Eureka logo 组合而成。
  - 该项目的拓展文件修改自 [40codeTeam/scratch-vm](https://github.com/40codeTeam/scratch-vm/tree/develop/src/extensions)。
