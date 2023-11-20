@@ -8,3 +8,9 @@
 ## 版权信息
  - 上面的logo由 40code logo 和 Eureka logo 组合而成。
  - 该项目的拓展文件修改自 [40codeTeam/scratch-vm](https://github.com/40codeTeam/scratch-vm/tree/develop/src/extensions)。
+
+### TO DO
+
+|拓展名|在 Eureka 上的运行状态|
+|---|---|
+|scratch3_community2|NaN|
