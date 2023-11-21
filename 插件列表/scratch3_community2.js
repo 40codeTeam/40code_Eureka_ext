@@ -765,7 +765,7 @@ class Scratch3CommunityBlocks {
     jt(a) {
         let sss;
         console.log(1)
-        window.scratch.getProjectCover(cover => {
+        window.Scratch.getProjectCover(cover => {
             sss = cover;
         })
         return sss;
