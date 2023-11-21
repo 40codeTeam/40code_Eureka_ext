@@ -702,12 +702,12 @@ class Scratch3CommunityBlocks {
         return yunerror;
     }
     yunload(s) {
-        mdui.snackbar("当前云数据已废弃");
+        console.warn("当前云数据已废弃");
 
 
     }
     yunsave(args) {
-        mdui.snackbar("当前云数据已废弃");
+        console.warn("当前云数据已废弃");
 
     }
     sha1(ss) {
@@ -763,12 +763,15 @@ class Scratch3CommunityBlocks {
         return sha1(ss.c);
     }
     jt(a) {
+        /*
         let sss;
         console.log(1)
         window.Scratch.getProjectCover(cover => {
             sss = cover;
         })
-        return sss;
+        */
+        return "暂不在Eureka上支持";
+        
         // let c =  $('canvas')//$('.stage_dragging-sprite_2rRMx')[0] ||
         // let _canvas=c[0] && c[0].width && c[0] || c[1] && c[1].width && c[1] || c[2] && c[2].width && c[2];
         // return _canvas.toDataURL()
@@ -879,7 +882,7 @@ class Scratch3CommunityBlocks {
         try {
             top.v.workview.introduce2 = top.markdownToHtml(a.text.slice(0, 1000))
         } catch (e) {
-            mdui.snackbar("修改介绍(创作页提示)：" + markdownToHtml(a.text))
+            //mdui.snackbar("修改介绍(创作页提示)：" + markdownToHtml(a.text))
             console.log(e)
         }
     }

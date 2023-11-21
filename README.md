@@ -1,4 +1,7 @@
-![40code_Eureka_ext项目的logo](./assets/40code_Eureka_ext.svg)
+## 项目暂停制作！把全部拓展都搬运过去太麻烦了（对我来讲）！有需求请issues联系！
+
+
+[40code_Eureka_ext项目的logo](./assets/40code_Eureka_ext.svg)
 
 # 40code_Eureka_ext
 [Eureka](https://github.com/EurekaScratch/eureka-loader/blob/trunk/README-zh_CN.md) 是一个全平台的 Scratch 扩展加载器。该项目计划用来提供40code **编辑器内置拓展** 的等价 Eureka 版拓展。  
@@ -11,6 +14,6 @@
 
 ### TO DO
 
-|拓展名|在 Eureka 上的运行状态|
+|拓展名|在 Eureka 上的运行状态|不支持的块|
 |---|---|
 |scratch3_community2|NaN|
